@@ -2,10 +2,10 @@ distributions:
   - name: adoptopenjdk
     versions:
       jdk8:
-        - version: "8u292-b10"
+        - version: "8u412-b08"
           urls:
             linux: "https://example.com/jdk-8u292-b10-linux.zip"
-            windows: "https://example.com/jdk-8u292-b10-windows.zip"
+            windows: "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u412-b08/OpenJDK8U-jdk_x64_windows_hotspot_8u412b08.zip"
       jdk11:
         - version: "11.0.11+9"
           urls:
