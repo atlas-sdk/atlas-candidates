@@ -1,5 +1,5 @@
 distributions:
-  - name: adoptopenjdk
+  - name: temurin
     versions:
       jdk8:
         - version: "8u412-b08"
